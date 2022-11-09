@@ -1,0 +1,27 @@
+a p{
+    background-color: violet;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px;
+    width: 200px;
+    list-style-type: none;
+}
+a:hover{
+    background-color: cadetblue;
+    color: darkcyan;
+    
+}
+.active{
+    background-color: darkslategray;
+    color: greenyellow;
+    display: block;
+}
+div.a{
+    display: block;
+    background-color: violet;
+    margin-left: 50px;
+    margin-right: 50px;
+}
